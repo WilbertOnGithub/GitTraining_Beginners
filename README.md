@@ -1,2 +1,3 @@
-# GitTraining_Beginners
-Sheets used in the Git training for beginners.
+# Git training basic
+
+Contains the sheets used in the Git training for beginners. 
