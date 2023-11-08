@@ -12,6 +12,7 @@ Step 3: Explain the basic commands of Git.
 - git add (with information about the index)
 - git commit
 - git status  
+- explain .gitignore
 - git reset
 - git log
 - gitk
