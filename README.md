@@ -19,6 +19,4 @@ Step 3: Explain the basic commands of Git.
 - git diff
 - git branch
 - git checkout
-- git merge
-- git push  
 The current branch is pushed to the corresponding upstream branch, but as a safety measure, the push is aborted if the upstream branch does not have the same name as the local one.
